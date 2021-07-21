@@ -1,17 +1,17 @@
 ### Connect to Finage Market Source via WebSocket
 
-Install the required library to create a WebSocket connection.
+Install the required library to create a WebSocket connection.<br>
 `pip install websockets`
 
 ### Usage
 
-Replace the server URL in the script with your server address [line 5];
+Replace the server URL in the script with your server address [line 5];<br>
 `uri = "YOUR_SERVER_ADDRESS"`
 
-Run the script:
+Run the script:<br>
 `python3 websocket.py`
 
-After running the script, it will ask you to enter a symbol name
+After running the script, it will ask you to enter a symbol name<br>
 `Enter the currency symbol: BTCUSD`
 
 We've entered the _BTCUSD_ in this example.
